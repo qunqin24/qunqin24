@@ -94,12 +94,17 @@ currently: 在 AI 工具链的深水区里潜水 🤿
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qunqin24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF&text_color=ADBAC7" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qunqin24&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=ADBAC7" />
+  <img height="170" src="https://raw.githubusercontent.com/qunqin24/qunqin24/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qunqin24&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <img height="170" src="https://raw.githubusercontent.com/qunqin24/qunqin24/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/qunqin24/qunqin24/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://raw.githubusercontent.com/qunqin24/qunqin24/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/qunqin24/qunqin24/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 ## 🐍 贡献动画
