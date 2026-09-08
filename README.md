@@ -45,11 +45,18 @@ currently: 在 AI 工具链的深水区里潜水 🤿
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/qunqin24/Aurora-MBTI">
-        <h3>🔮 Aurora MBTI</h3>
+      <a href="https://github.com/qunqin24/Pulse">
+        <h3>📊 Pulse</h3>
       </a>
-      <p>AI 驱动的现代化<br/>MBTI 人格测试平台</p>
-      <p><em>用 AI 重新定义<br/>性格探索</em></p>
+      <p>macOS 悬浮监控<br/>面板</p>
+      <p><em>实时查看 Claude Code / Codex 等<br/>AI 编程额度余量</em></p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/qunqin24/polyglot">
+        <h3>🌐 polyglot</h3>
+      </a>
+      <p>自托管 LLM<br/>网关</p>
+      <p><em>OpenAI / Anthropic / Gemini<br/>协议双向转换</em></p>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/qunqin24/Prism">
@@ -57,13 +64,6 @@ currently: 在 AI 工具链的深水区里潜水 🤿
       </a>
       <p>多模型 AI 网关<br/>& 订阅平台</p>
       <p><em>兼容 OpenAI 的<br/>统一 AI 入口</em></p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/qunqin24/agent-switch">
-        <h3>🔀 Agent Switch</h3>
-      </a>
-      <p>AI Agent 跨平台<br/>桌面管理器</p>
-      <p><em>Claude Code 等多个<br/>AI 工具配置管理</em></p>
     </td>
   </tr>
   <tr>
@@ -75,11 +75,11 @@ currently: 在 AI 工具链的深水区里潜水 🤿
       <p><em>基于 Next.js 15<br/>& React 19</em></p>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/qunqin24/Gemini-Studio">
-        <h3>💎 Gemini Studio</h3>
+      <a href="https://github.com/qunqin24/opendock">
+        <h3>🧭 opendock</h3>
       </a>
-      <p>Google Gemini API<br/>图像生成应用</p>
-      <p><em>探索 Gemini<br/>的视觉创造力</em></p>
+      <p>opencode 插件<br/>目录与排行榜</p>
+      <p><em>自动收录 · 多维排名<br/>· 每日同步</em></p>
     </td>
     <td align="center" width="33%">
       <a href="https://www.qunqin.net">
